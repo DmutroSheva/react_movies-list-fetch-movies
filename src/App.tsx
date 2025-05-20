@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import './App.scss';
 import { MoviesList } from './components/MoviesList';
+
 import { FindMovie } from './components/FindMovie';
 import { Movie } from './types/Movie';
 
